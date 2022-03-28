@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning SwiftUI for multiple devices and Combine Framework.
+- 👯 I’m looking to collaborate on Healthcare and Learning iOS projects.
+- 💬 Ask me about Swift and apple development.
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/miguel-jimenez-49731b154/
+- ⚡ Fun fact: I'm really good at dancing salsa🕺🏽 and Bachata.
 <!--
 **chamuel51/chamuel51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
