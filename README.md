@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Personal independents projects COMING SOON!!
-- 🌱 I’m currently learning SwiftUI for multiple devices and Combine Framework.
-- 👯 I’m looking to collaborate on Healthcare and Learning iOS projects.
+- 🌱 I’m currently learning new stuff the last updates SwiftUI is bringing to the table.
 - 💬 Ask me about Swift and apple development.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/miguel-jimenez-49731b154/
 - ⚡ Fun fact: I'm really good at dancing salsa🕺🏽 and Bachata.
