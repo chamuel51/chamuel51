@@ -1,6 +1,4 @@
 ![Header](https://github.com/chamuel51/chamuel51/assets/17075375/565756e8-99e8-45d0-8d1f-ad497cf4e363)
-
-### Hi there 👋
 - 🔭 I’m currently working on Personal independents projects COMING SOON!!
 - 🌱 I’m currently learning new stuff the last updates SwiftUI is bringing to the table.
 - 💬 Ask me about Swift and apple development.
